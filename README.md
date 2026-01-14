@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Vishnu Vijay
 
-<!--
-**vishnuvijayn395/vishnuvijayn395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering student  
+🔧 Interested in **Embedded Systems, ARM, SDR, RF & Antenna Design**
 
-Here are some ideas to get you started:
+- 🔭 Working on embedded & SDR-based projects  
+- 🌱 Learning RF, antenna design, and signal processing  
+- 🛠️ Tools: **C/C++, ARM Keil, STM32, GNU Radio, MATLAB, HFSS/CST, Git**  
+- 👯 Open to collaborations in embedded, RF, and robotics  
+- 💬 Ask me about ARM Cortex, Embedded C, SDR basics  
+- 📫 Reach me:  
+  - LinkedIn: https://www.linkedin.com/in/vishnu-vijay-80b383340/  
+  - Email: vishnuvijayn395@gmail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I enjoy debugging hardware more than software
