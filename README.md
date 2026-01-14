@@ -10,6 +10,6 @@
 - 💬 Ask me about ARM Cortex, Embedded C, SDR basics  
 - 📫 Reach me:  
   - LinkedIn: https://www.linkedin.com/in/vishnu-vijay-80b383340/  
-  - Email: vishnuvijayn395@gmail
+  - Email: vishnuvijayn395@gmail.com
 
 ⚡ Fun fact: I enjoy debugging hardware more than software
